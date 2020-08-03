@@ -13,7 +13,7 @@ Repository Link: https://github.com/theodorebutts/eCommerceBackEnd
 * [License](#license)
 
 ## Video Demo
-[Ecommerce Back End Demo](https://youtu.be/0iksDpiJhVE "Ecommerce Back End Demo")
+[Ecommerce Back End Demo](https://youtu.be/QsJKYEiNvB0 "Ecommerce Back End Demo")
 
 ## Installation
 1) Start your MySQL server, source the schema.sql file by entering "source db/schema.sql" to create the ecommerce_db database. Confirm that the database was created by typing "show databases" into the MySQL server. Once you've confirmed that the database was created, type "exit" to exit your MySQL server. 
